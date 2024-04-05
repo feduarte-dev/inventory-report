@@ -6,7 +6,7 @@ class Inventory:
         if data is None:
             self._data = []
         else:
-            self._data = data
+            self._data = data  # existe alguma forma melhor de escrever isso?
 
     @property
     def data(self) -> list[Product]:

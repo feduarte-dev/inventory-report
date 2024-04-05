@@ -43,8 +43,3 @@ IMPORTERS: Dict[str, Type[Importer]] = {
     "json": JsonImporter,
     "csv": CsvImporter,
 }
-
-JSON_DATA = "inventory_report/data/inventory.json"
-
-teste = JsonImporter(JSON_DATA)
-print(teste.import_data())
