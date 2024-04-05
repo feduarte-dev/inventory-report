@@ -1,0 +1,47 @@
+[
+  {
+    "id": "6511",
+    "product_name": "ad",
+    "company_name": "Dias",
+    "manufacturing_date": "2023-09-15",
+    "expiration_date": "2083-10-08",
+    "serial_number": "SX80 B8JR 3709 27JT 7736 LJSS 2X1R",
+    "storage_instructions": "Voluptatem eius quaerat veritatis facere fuga."
+  },
+  {
+    "id": "1815",
+    "product_name": "non",
+    "company_name": "Dias",
+    "manufacturing_date": "2023-10-23",
+    "expiration_date": "2063-10-26",
+    "serial_number": "XA33 K1FI 5751 8FP5 M7Y2 EK75 NN2U",
+    "storage_instructions": "Ratione quasi officia laboriosam. Eius accusantium aliquam tenetur. Nesciunt eius necessitatibus nisi."
+  },
+  {
+    "id": "6353",
+    "product_name": "velit",
+    "company_name": "Dias",
+    "manufacturing_date": "2024-01-13",
+    "expiration_date": "2112-08-30",
+    "serial_number": "NE66 5488 9941 8FJE Q7S6 VLU1 SZ23",
+    "storage_instructions": "Inventore maxime veniam sunt. Hic molestias nesciunt quibusdam. Ipsum quisquam ab similique amet cum dolorem nemo."
+  },
+  {
+    "id": "8535",
+    "product_name": "dolor",
+    "company_name": "Cardoso",
+    "manufacturing_date": "2023-12-13",
+    "expiration_date": "2024-04-06",
+    "serial_number": "CB38 9DDZ 3307 4FT0 R1Y0 PRKY CH7T",
+    "storage_instructions": "Distinctio excepturi officia recusandae labore. Aliquam nulla tenetur vero inventore tempora nesciunt."
+  },
+  {
+    "id": "592",
+    "product_name": "at",
+    "company_name": "Ferreira S/A",
+    "manufacturing_date": "2023-04-05",
+    "expiration_date": "2076-05-24",
+    "serial_number": "P051 KXTD 6382 2V58 9023 4A8L JC3A",
+    "storage_instructions": "Deserunt reiciendis quibusdam dolor neque odit quasi laborum. Animi excepturi aliquam reiciendis nam dolorum consectetur eius. Maiores cumque suscipit."
+  }
+]
