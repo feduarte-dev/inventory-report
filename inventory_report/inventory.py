@@ -2,9 +2,16 @@ from inventory_report.product import Product
 
 
 class Inventory:
-    def __init__(self, data: list[Product] = []) -> None:
-        self.data = data
+    def __init__(self, data: list[Product] | None = None) -> None:
+        if data is None:
+            self._data = []
+        else:
+            self._data = data
 
-    def add_data(self, products_list: list[Product]):
-        for product in products_list:
-            self.data.append(product)
+    @property
+    def data(self) -> list[Product]:
+        return self._data
+
+    def add_data(self, data: list[Product]):
+        for product in data:
+            self._data.append(product)
